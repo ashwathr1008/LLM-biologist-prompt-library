@@ -1,1 +1,2 @@
-# AI-Bio
+# ChatGPT Biologist Prompt Library
+# The purpose of this repository is to provide a resource for biologists to refer to when looking to use GPT 01 or GPT 4 to assist with tasks. The repository will also include guidance on how to write functional prompts. This repository is initially aimed at scientists who do not have much of a programming or software heavy background, but may grow in scope over time. This repository is intended to be open source and available for use and to add to.
