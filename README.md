@@ -11,7 +11,7 @@
 ## Table of Contents
 * License (CC 4.0)
 * License (MIT)
-* How to Write Effective Prompts
+* [How to Write Effective Prompts](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/How%20to%20Write%20Effective%20Prompts.md)
 * Prompts Library
   * Literature Review
   * Data Analysis
