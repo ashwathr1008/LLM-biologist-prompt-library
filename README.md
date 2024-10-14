@@ -1,2 +1,9 @@
-# ChatGPT Biologist Prompt Library
-# The purpose of this repository is to provide a resource for biologists to refer to when looking to use GPT 01 or GPT 4 to assist with tasks. The repository will also include guidance on how to write functional prompts. This repository is initially aimed at scientists who do not have much of a programming or software heavy background, but may grow in scope over time. This repository is intended to be open source and available for use and to add to.
+# ChatGPT Biologist Prompt Repository
+<font size="1"> **License:** This repository is licensed under a combined approach:
+* Creative Commons Attribution 4.0 International License (CC BY 4.0) for non-code content such as prompts, tutorials, and documentation.
+* MIT License for all code-related content, allowing flexibility for use and modification.
+</font>
+
+## Overview
+<font size="1"> This repository contains a curated list of prompts designed to assist biologists in their research and work using ChatGPT o1-preview as well as GPT-4. These prompts can help generate ideas, summarize complex topics, provide explanations, and guide you through data analysis processes—including writing Python or R code—for various subfields of biology. The repository also contains guidance on writing functional prompts. The repository is currently designed for biologists in the human health space who have either limited computational experience or limited experience using generative AI tools or capabilities. It is an open source repository, intended to be expanded to encompass other subfields of biology and to be further refined as people use the existing prompts and add their own.
+</font>
