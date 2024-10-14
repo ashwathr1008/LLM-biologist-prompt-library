@@ -11,7 +11,6 @@ levels of experience, but it can get you the basics of skills fast, and it can p
 is gated behind the prompts you as the user write.
 
 ## What is a Prompt?
-What is a Prompt?
 A prompt is a question or statement you provide to an AI language model to receive information, explanations, or assistance on a particular topic. 
 The quality of the AI's response often depends on how well the prompt is crafted. It's important to remember what an AI tool can and can't do, and what
 it is good at when writing prompts.
