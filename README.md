@@ -13,7 +13,7 @@
 * [License (MIT)](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/LICENSE%20(MIT).md)
 * [How to Write Effective Prompts](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/How%20to%20Write%20Effective%20Prompts.md)
 * Prompts Library
-  * Literature Review
+  * [Literature Review](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Literature-Review.md)
   * Data Analysis
   * Experimental Design
   * Genetics and Genomics
