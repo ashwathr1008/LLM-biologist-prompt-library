@@ -1,9 +1,10 @@
 # Experimental Design
 
 1. Developing Hypotheses
+
     * "Help me develop hypotheses to investigate how changes in gut microbiome diversity affect immune responses in elderly populations."
     * "Help me formulate a clear and testable hypothesis for studying the effects of dietary supplements on athletic performance."
-2. Sample Size Calculation:
+3. Sample Size Calculation:
     * "What factors should I consider when determining the sample size for my study on gene-environment interactions related to asthma risk? Provide formulas and tools for calculation."
     * "How do I calculate the appropriate sample size for a clinical trial comparing two treatments?"
 5. Designing Experiments and Studies
