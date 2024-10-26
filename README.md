@@ -14,7 +14,7 @@
 * [How to Write Effective Prompts](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/How%20to%20Write%20Effective%20Prompts.md)
 * Prompts Library
   * [Literature Review](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Literature-Review.md)
-  * Data Analysis
+  * [Data Analysis](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Data-Analysis.md)
   * Experimental Design
   * Genetics and Genomics
   * Molecular Biology
