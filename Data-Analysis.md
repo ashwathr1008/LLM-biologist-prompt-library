@@ -85,52 +85,52 @@ choose appropriate analytical methods, interpret results, and assist in writing 
    * "What are common normalization techniques for sequencing data, and when should they be used?"
 
 10. Population Genetics and Phylogenetics
-   * "Explain how to use Bayesian inference for estimating phylogenetic trees from sequence alignment data."
-   * "Explain techniques for haplotype phasing and its importance in population genetics studies."
-   * "Provide Python code to simulate genetic drift in a population over time and visualize changes in allele frequencies."
-   * "Provide Python code to simulate a coalescent model for population genetics studies and visualize the genealogies."
+     * "Explain how to use Bayesian inference for estimating phylogenetic trees from sequence alignment data."
+     * "Explain techniques for haplotype phasing and its importance in population genetics studies."
+     * "Provide Python code to simulate genetic drift in a population over time and visualize changes in allele frequencies."
+     * "Provide Python code to simulate a coalescent model for population genetics studies and visualize the genealogies."
 
 11. Proteomics and Metabolomics Data Analysis
-   * "Provide methods for imputing missing values in high-dimensional proteomics datasets."
-   * "Propose statistical methods for analyzing metabolomics data obtained from NMR spectroscopy."
-   * "Provide R code to perform principal component analysis (PCA) on metabolomics data and plot the first two principal components."
+     * "Provide methods for imputing missing values in high-dimensional proteomics datasets."
+     * "Propose statistical methods for analyzing metabolomics data obtained from NMR spectroscopy."
+     * "Provide R code to perform principal component analysis (PCA) on metabolomics data and plot the first two principal components."
 
 12. Image Analysis and Microscopy
-   * "Provide Python code to perform image analysis on microscopy images using OpenCV to quantify cell fluorescence intensity."
+     * "Provide Python code to perform image analysis on microscopy images using OpenCV to quantify cell fluorescence intensity."
 
 13. Computational Biology and Modeling
-   * "Provide Python code to model bacterial population growth using ordinary differential equations and plot the results."
-   * "Provide Python code to simulate genetic drift in a population over time and visualize changes in allele frequencies."
-   * "Provide Python code to simulate a coalescent model for population genetics studies and visualize the genealogies."
+     * "Provide Python code to model bacterial population growth using ordinary differential equations and plot the results."
+     * "Provide Python code to simulate genetic drift in a population over time and visualize changes in allele frequencies."
+     * "Provide Python code to simulate a coalescent model for population genetics studies and visualize the genealogies."
 
 14. High-Dimensional Data Analysis
-   * "Identify optimal clustering techniques for analyzing microbiome composition data from 16S rRNA sequencing."
-   * "Propose techniques for analyzing spatial transcriptomics data to explore tissue heterogeneity."
-   * "What are the best practices for visualizing high-dimensional data from RNA-Seq experiments?"
+     * "Identify optimal clustering techniques for analyzing microbiome composition data from 16S rRNA sequencing."
+     * "Propose techniques for analyzing spatial transcriptomics data to explore tissue heterogeneity."
+     * "What are the best practices for visualizing high-dimensional data from RNA-Seq experiments?"
 
 15. Regression Models and Statistical Tests
-   * "Which statistical tests are appropriate for comparing gene expression levels between two groups with unequal variances?"
-   * "What is the meaning of 'heteroscedasticity' in regression analysis, and how does it affect the results?"
-   * "Explain the differences between linear, logistic, and Cox regression models and their applications in health studies."
-   * "Generate R code to fit a generalized linear model (GLM) to count data from an RNA-seq experiment."
+     * "Which statistical tests are appropriate for comparing gene expression levels between two groups with unequal variances?"
+     * "What is the meaning of 'heteroscedasticity' in regression analysis, and how does it affect the results?"
+     * "Explain the differences between linear, logistic, and Cox regression models and their applications in health studies."
+     * "Generate R code to fit a generalized linear model (GLM) to count data from an RNA-seq experiment."
 
 16. Software Tools Comparison
-   * "Compare the features of SPSS, R, and Python for statistical analysis in biological research."
+     * "Compare the features of SPSS, R, and Python for statistical analysis in biological research."
 
 17. Data Integrity and Quality Control
-   * "What steps should be taken to ensure data integrity before performing statistical analysis?"
-   * "Suggest a workflow for exploratory data analysis of gene expression data. Include a brief description of key plots and statistical tests for quality control."
-   * "I have a dataset containing patient biomarkers, and I want to identify outliers. How should I go about it using Python or R, and what statistical tests are recommended?"
+     * "What steps should be taken to ensure data integrity before performing statistical analysis?"
+     * "Suggest a workflow for exploratory data analysis of gene expression data. Include a brief description of key plots and statistical tests for quality control."
+     * "I have a dataset containing patient biomarkers, and I want to identify outliers. How should I go about it using Python or R, and what statistical tests are recommended?"
 
 18. CRISPR and Gene Editing Data Analysis
-   * "Recommend best practices for analyzing CRISPR screening data to identify essential genes in cell viability."
+     * "Recommend best practices for analyzing CRISPR screening data to identify essential genes in cell viability."
 
 19. Epigenetics and Methylation Analysis
-   * "Discuss strategies for analyzing methylation array data to identify epigenetic alterations in cancer."
-   * "Generate R code to analyze DNA methylation array data using the minfi package and identify differentially methylated regions."
-   * "Suggest approaches for integrating epigenetic data, such as DNA methylation profiles, with gene expression datasets."
+     * "Discuss strategies for analyzing methylation array data to identify epigenetic alterations in cancer."
+     * "Generate R code to analyze DNA methylation array data using the minfi package and identify differentially methylated regions."
+     * "Suggest approaches for integrating epigenetic data, such as DNA methylation profiles, with gene expression datasets."
 
 20. Microbiome and Metagenomic Analysis
-   * "Identify optimal clustering techniques for analyzing microbiome composition data from 16S rRNA sequencing."
-   * "Develop Python code to analyze 16S rRNA sequencing data using QIIME2 and calculate alpha and beta diversity metrics."
-   * "Explain how to perform a differential abundance analysis in metagenomic sequencing studies."
+     * "Identify optimal clustering techniques for analyzing microbiome composition data from 16S rRNA sequencing."
+     * "Develop Python code to analyze 16S rRNA sequencing data using QIIME2 and calculate alpha and beta diversity metrics."
+     * "Explain how to perform a differential abundance analysis in metagenomic sequencing studies."
