@@ -17,7 +17,7 @@
   * [Data Analysis](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Data-Analysis.md)
   * [Experimental Design](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Experimental-Design.md)
   * [Genetics and Genomics](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Genetics-and-Genomics.md)
-  * [Molecular Biology]()
+  * [Molecular Biology](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Molecular-Biology.md)
   * Cell Biology
   * Immunology
   * Epidemiology
