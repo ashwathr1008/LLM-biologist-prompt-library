@@ -17,15 +17,13 @@
   * [Data Analysis](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Data-Analysis.md)
   * [Experimental Design](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Experimental-Design.md)
   * [Genetics and Genomics](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Genetics-and-Genomics.md)
-  * Molecular Biology
+  * [Molecular Biology]()
   * Cell Biology
   * Immunology
   * Epidemiology
   * Bioinformatics
-  * Pharmacology
   * Neuroscience
   * Public Health
-  * Generating Code (Python and R)
   * GPT API Integration (To be populated)
 * Contributing
 
