@@ -15,7 +15,9 @@
     * "Describe how to set up a factorial experiment to assess the interaction between two drugs."
     * "Explain how a crossover study design works and when it is appropriate to use it."
     * "Compare the advantages and disadvantages of longitudinal and cross-sectional study designs."
-    * "How can I implement randomization in assigning subjects to control and treatment groups to minimize bias in the following experimental procedure? [Insert Procedure Here]" 
+    * "How can I implement randomization in assigning subjects to control and treatment groups to minimize bias in the following experimental procedure? [Insert Procedure Here]"
+    * "How would you design a genome-wide CRISPR knockout screen to identify genes essential for viral replication in human cells?"
+    * "Propose an experimental design integrating genomics, transcriptomics, and proteomics to identify biomarkers for early detection of Alzheimer's disease."
 6. Choosing Appropriate Models
     * "What are the advantages and disadvantages of using mice as animal models for studying Alzheimer's disease?"
 7. Selecting Experimental Techniques
@@ -30,6 +32,7 @@
     * "What are the differences in tests needed to validate a new lab-developed test as compared to an existing assay"
     * "What is the expected Limit of Detection for the most commonly used [Insert test here] assays?"
     * "What would be a suitable comparator assay for verifying an equivalent [Insert test here] assay?"
+    * "Propose an experimental approach to validate a computational model predicting drug-target interactions in silico."
 11. Placebo Effects
     * "Discuss strategies to control for placebo effects in a clinical trial."
 12. Addressing Confounding Variables
@@ -42,5 +45,9 @@
     * "Provide guidelines for creating effective questionnaires to assess patient satisfaction."
 16. Handling Missing Data
     * "What strategies can I use to handle missing data in my experimental results? The data I have is [Insert Data Here] and the data I am missing is [Insert Data Needed]."
-17. Ethical Use of Animals
-    * "What are the '3Rs' principles in animal research, and how can I implement them in my study design?"
+17. Optimizing Clinical Trial Phases
+     * "Outline a strategy for accelerating a drug from Phase I to Phase III clinical trials while ensuring patient safety and data integrity."
+18. Addressing Heterogeneity in Samples
+      * "Design an experiment to assess tumor heterogeneity in patient-derived xenografts and its impact on drug resistance."
+19. Utilizing Artificial Intelligence
+      * "How can machine learning models be incorporated into experimental design for predicting protein folding in novel synthetic peptides?"
