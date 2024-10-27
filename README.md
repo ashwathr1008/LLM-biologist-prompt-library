@@ -1,4 +1,4 @@
-# ChatGPT Biologist Prompt Repository
+# LLM Biologist Prompt Repository
 <font size="1"> **License:** This repository is licensed under a combined approach:
 * [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/LICENSE%20(CC-BY-4.0).md) for non-code content such as prompts, tutorials, and documentation.
 * [MIT License](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/LICENSE%20(MIT).md) for all code-related content, allowing flexibility for use and modification.
