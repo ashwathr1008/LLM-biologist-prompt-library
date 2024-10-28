@@ -20,7 +20,7 @@
   * [Molecular Biology](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Molecular-Biology.md)
   * [Cell Biology](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Cell-Biology.md)
   * Immunology
-  * Epidemiology
+  * [Epidemiology](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Epidemiology.md)
   * [Bioinformatics](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Bioinformatics.md)
   * Neuroscience
   * Public Health
