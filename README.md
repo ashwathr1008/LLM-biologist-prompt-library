@@ -20,17 +20,22 @@
   * [Genetics and Genomics](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Genetics-and-Genomics.md)
   * [Molecular Biology](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Molecular-Biology.md)
   * [Cell Biology](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Cell-Biology.md)
-  * Immunology
+  * [Immunology]()
   * [Epidemiology](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Epidemiology.md)
   * [Bioinformatics](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Bioinformatics.md)
-  * Neuroscience
+  * [Neuroscience]()
   * [Public Health](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Public-Health.md)
+* [API]()
 * Contributing
-* Other Resources
 * Credits
 
 ## Contributing
 Please feel free to contribute and enhance this collection. Everyone's needs are different, and it is likely none of these prompts will work "plug and play" or "out of the box" for your particular purpose. These prompts are meant to provide guidance, a framework, and inspiration. Adding additional sections to cover other aspects of biology is also encouraged. My hope is that this repository will organically grow and improve as people use and add to it, so the next person to come across it has an easier time getting into LLM use than the previous person using it.
+
+## API
+Sometimes, an LLMs User Interface will not support the tasks you are The API is a versatile tool that allows developers to integrate ChatGPT into their own applications, services, or websites. When using the API, you have more control over the interaction, including the ability to adjust parameters such as temperature, max tokens, and presence of system messages. These parameters can influence the output and help tailor the responses to specific needs. 
+* [OpenAI Dev Platform Docs](https://platform.openai.com/docs/overview)
+* [OpenAI API Reference](https://platform.openai.com/docs/api-reference/introduction)
 
 ## Credits
 * Alex Bilzerian ([X](https://x.com/alexbilz), [GitHub LLM Prompt Library](https://github.com/abilzerian/LLM-Prompt-Library))
