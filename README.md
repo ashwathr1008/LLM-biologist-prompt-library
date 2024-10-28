@@ -23,7 +23,7 @@
   * [Epidemiology](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Epidemiology.md)
   * [Bioinformatics](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Bioinformatics.md)
   * Neuroscience
-  * Public Health
+  * [Public Health](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Public-Health.md)
   * GPT API Integration (To be populated)
 * Contributing
 
