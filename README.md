@@ -20,10 +20,9 @@
   * [Genetics and Genomics](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Genetics-and-Genomics.md)
   * [Molecular Biology](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Molecular-Biology.md)
   * [Cell Biology](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Cell-Biology.md)
-  * [Immunology]()
+  * [Immunology](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Immunology.md)
   * [Epidemiology](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Epidemiology.md)
   * [Bioinformatics](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Bioinformatics.md)
-  * [Neuroscience]()
   * [Public Health](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Public-Health.md)
 * [API]()
 * Contributing
