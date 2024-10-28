@@ -21,7 +21,7 @@
   * [Cell Biology](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Cell-Biology.md)
   * Immunology
   * Epidemiology
-  * Bioinformatics
+  * [Bioinformatics](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Bioinformatics.md)
   * Neuroscience
   * Public Health
   * GPT API Integration (To be populated)
