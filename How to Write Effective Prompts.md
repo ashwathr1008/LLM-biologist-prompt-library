@@ -62,6 +62,9 @@ Example: "Describe (Action) the role of mitochondria (Main Topic) in energy prod
 ## Practice!!!
 Try creating your own prompts using the structure and tips provided. Chances are, you won't get the result you precisely wanted. Refine your prompts based on the output until you get something you are satisfied with! Practice with prompt writing makes perfect. 
 
+## Use your LLM as a Prompt Generator or Refiner
+This is a trick I only learned thanks to Alex Bilzerian's [LLM Prompt Library](https://github.com/abilzerian/LLM-Prompt-Library/tree/main). Through [the following prompt](https://github.com/abilzerian/LLM-Prompt-Library/blob/main/Prompt%20Generation/Prompt%20Creator.md), you can utilize your LLM of choice to craft or further hone your prompt through an iterative back and forth. That prompt is one of many useful prompts within Alex's prompt library, and I encourage you to check them out for further inspiration.
+
 ## Utilizing AI Responsibly
 * **Fact-Checking:** *Always* verify information provided by AI with reputable scientific sources. If the AI offers up suggested articles to use as reference, double check the articles to make sure they exist. AI isn't all knowing, and delusions (instances where the AI makes up a likely response, such as an article that would report a certain finding that does not actually exist), while rare, and getting rarer as AI tools improve, do occassionally occur. When using AI to perform a task, you take the responsibility of fact checking yourself.
 * **Ethical Considerations:** Be mindful of ethical guidelines and regulations in your field when discussing sensitive topics.
