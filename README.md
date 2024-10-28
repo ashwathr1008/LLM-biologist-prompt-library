@@ -12,7 +12,7 @@
 * [License (CC-BY-4.0)](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/LICENSE%20(CC-BY-4.0).md)
 * [License (MIT)](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/LICENSE%20(MIT).md)
 * [How to Write Effective Prompts](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/How%20to%20Write%20Effective%20Prompts.md)
-* [Why use ChatGPT o1 (o1-preview as of Nov 1st 2024)]
+* [Why use ChatGPT o1 (o1-preview as of Nov 1st 2024)](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Why-o1.md)
 * Prompts Library
   * [Literature Review](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Literature-Review.md)
   * [Data Analysis](https://github.com/ashwathr1008/chatgpt-biologist-prompt-library/blob/main/Data-Analysis.md)
