@@ -1,4 +1,4 @@
-# The Strengths and Weaknesses of ChatGPT's o-1 Preview
+# ChatGPT's o-1 Preview
 
 O1 preview is OpenAI's latest ChatGPT model. The main draw of this model is that it spends more time "thinking" or "reasoning" on more complex questions, resulting in a greater ability to respond to complex problems.
 The human brain commits more thought to more difficult problems. We spend more time thinking if asked to solve a complex math problem than if asked what the weather is today, or what time it is. The o1 models by OpenAI
