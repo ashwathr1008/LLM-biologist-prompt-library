@@ -13,6 +13,4 @@ O1 is relatively new. That said, I think it shows great promise for use by scien
 
 A reddit user Sunil Kumar Dash reviewed the o1-preview model. His [reddit review](https://www.reddit.com/r/LocalLLaMA/comments/1ficb0z/o1preview_a_model_great_at_math_and_reasonong/) and [detailed review](https://composio.dev/blog/openai-o1-preview-a-detailed-analysis/) can be found by following both links. In his reviews, he confirms o1-previews reasoning and mathematical capacity, 
 but seems unimpressed by its coding capabilities. I have used o1-preview to generate some code blocks for data analysis and had no issues, though I am working at a far lower complexity than a lot of software
-experts would be working. That said, in the comments of his reddit post, user Jimin P suggests that o1-previews coding and logic abilities are greater than Sunil's estimations. Ultimately, I think most people using
-this prompt library probably don't do very complicated coding, and so o1-preview should be an excellent model to use. Everyone's mileage may vary, so use the model that you like and works best for you. These
-prompts and tutorials should be LLM agnostic.
+experts would be working. That said, in the comments of his reddit post, user Jimin P suggests that o1-previews coding and logic abilities are greater than Sunil's estimations. In my opinion, the o1-preview model works very well for every application I have needed to use it for. At the end of the day, choose your favorite model.
