@@ -4,7 +4,7 @@ O1 preview is OpenAI's latest ChatGPT model. The main draw of this model is that
 The human brain commits more thought to more difficult problems. We spend more time thinking if asked to solve a complex math problem than if asked what the weather is today, or what time it is. The o1 models by OpenAI
 aim to replicate this fact, and do so quite successfully.
 
-As per OpenAI's own evaluations, o1 ranks in the 89th percentile on competitive programming questions (Codeforces), places among the top 500 students in the US in a qualifier for the USA Math Olympiad (AIME), 
+As per OpenAI's own evaluations ([here](https://openai.com/index/introducing-openai-o1-preview/) and [here](https://openai.com/index/learning-to-reason-with-llms/)), o1 ranks in the 89th percentile on competitive programming questions (Codeforces), places among the top 500 students in the US in a qualifier for the USA Math Olympiad (AIME), 
 and exceeds human PhD-level accuracy on a benchmark of physics, biology, and chemistry problems (GPQA). For comparison, in a qualifying exam for the International Mathematics Olympiad (IMO),
 GPT-4o correctly solved only 13% of problems, while the reasoning model (o1) scored 83%.
 
